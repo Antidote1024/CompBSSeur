@@ -1,4 +1,4 @@
-# CompBSSeur_0.1.0
+# CompBSSeur
 ## export(BSdlpfc)
 ## export(CompareBS)
 ## export(SEUdlpfc)
